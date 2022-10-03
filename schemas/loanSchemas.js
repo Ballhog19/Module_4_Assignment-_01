@@ -1,3 +1,9 @@
+/*
+*   Created By: Brad Hawk
+*   Date: 10/3/2022
+*   Description: Schema used in MondoDB
+*/
+
 import mongoose from "mongoose";
 const {Schema} = mongoose;
 
