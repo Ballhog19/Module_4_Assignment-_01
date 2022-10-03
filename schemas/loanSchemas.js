@@ -13,10 +13,10 @@ const loanSchema = new Schema({
     description: String,
     createdDate: {
         type: String,
-        default: new Date.now
+        default: Date.now
     },
     insertedDate: {
         type: String,
-        default: new Date.now
+        default: Date.now
     }
 })
