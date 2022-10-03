@@ -17,12 +17,6 @@ const loanSchema = new Schema({
     loanTermYears: Number,
     loanType: String,
     description: String,
-    createdDate: {
-        type: String,
-        default: Date.now
-    },
-    insertedDate: {
-        type: String,
-        default: Date.now
-    }
+    createdDate: new Date().toISOString(),
+    insertedDate: new Date().toISOString()
 })
