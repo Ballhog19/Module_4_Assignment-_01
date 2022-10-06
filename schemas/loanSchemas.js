@@ -8,7 +8,6 @@ import mongoose from "mongoose";
 const {Schema} = mongoose;
 
 const loanSchema = new Schema({
-    id: String,
     customerName: String,
     phoneNumber: String,
     address: String,

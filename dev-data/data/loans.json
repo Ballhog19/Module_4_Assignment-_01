@@ -1,5 +1,6 @@
 [
     {
+        "loanId": 10,
         "customerName": "Brad Hawk",
         "phoneNumber": "(000) 000-0000",
         "address": "123 Random St",
@@ -10,6 +11,7 @@
         "description": "Using loan to consolidate credit card debt"
     },
     {
+        "loanId": 11,
         "customerName": "Person B",
         "phoneNumber": "(111) 111-1111",
         "address": "2 UpThe Rd",
@@ -20,6 +22,7 @@
         "description": "First-time Homebuyer rate"
     },
     {
+        "loanId": 12,
         "customerName": "P Sherman",
         "phoneNumber": "(222) 222-2222",
         "address": "42 Wallaby Way",
@@ -30,6 +33,7 @@
         "description": "Starting a new dental office"
     },
     {
+        "loanId": 13,
         "customerName": "Person C",
         "phoneNumber": "(333) 333-3333",
         "address": "456 Wherever Ave",
@@ -40,6 +44,7 @@
         "description": "Buying a Ferarri"
     },
     {
+        "loanId": 14,
         "customerName": "Person D",
         "phoneNumber": "(444) 444-4444",
         "address": "555 Nelson Pl.",
