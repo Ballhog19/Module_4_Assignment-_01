@@ -1,7 +1,7 @@
 [
     {
         "loanId": 10,
-        "customerName": "Brad Hawk",
+        "customerName": "Bradford Hawk",
         "phoneNumber": "(000) 000-0000",
         "address": "123 Random St",
         "loanAmount": 30000,
@@ -53,5 +53,16 @@
         "loanTermYears": 0.5,
         "loanType": "Payday Loan",
         "description": "Needed to pay bills this month"
+    },
+    {
+        "loanId": 15,
+        "customerName": "Mickey Mouse",
+        "phoneNumber": "1-800-DISNEY",
+        "address": "1 ToonTown Dr",
+        "loanAmount": 800000,
+        "interest": 2,
+        "loanTermYears": 20,
+        "loanType": "Construction",
+        "description": "building new attractions"
     }
 ]
